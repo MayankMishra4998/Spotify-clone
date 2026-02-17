@@ -1,0 +1,277 @@
+.arjit_song_after_click{
+    display: none;
+    border-radius: 10px;
+    background: linear-gradient(360deg, rgb(11, 11, 11) 30%, rgb(157, 90, 27)70%, rgb(231, 105, 16) 100%);
+}
+
+.box2_arjit_song_scrobble_part {
+   overflow: scroll;
+   height: 45vh;
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+
+.box2_arjit_song_scrobble_part::-webkit-scrollbar {
+    width: 0px;
+}
+
+.arjit_song_after_click_l1 {
+    background: linear-gradient(180deg, rgba(200, 130, 79)20% , #faaa72 60%, rgb(111, 56, 23) 100%);
+    width: 100%;
+    height: 35vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.arjit_song_after_click_l1_img {
+    display: flex;
+    width: 1200px;
+}
+
+
+.arjit_song_after_click_l1_p1_a {
+    font-size: 18px;
+}
+
+.arjit_song_after_click_l1_p1_b {
+    font-size: 6rem;
+    font-weight: bolder;
+
+}
+
+.arjit_song_after_click_l1_p1_c {
+    margin-top: 10px;
+}
+
+.arjit_song_after_click_l1_p1 {
+    margin-top: 5%;
+
+}
+
+.arjit_song_after_click_l1_img img {
+    border-radius: 140px;
+    margin: 2%;
+    width: 18%;
+    box-shadow: 0px 2px 20px rgb(99, 34, 4);
+}
+
+
+.arjit_song_after_click_l2 {
+    display: flex;
+    width: 100%;
+    height: 14vh;
+}
+
+.arjit_song_after_click_l2_a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 22%;
+    height: 15vh;
+}
+
+.arjit_song_after_click_l2_a img {
+    cursor: pointer;
+    width: 23%;
+}
+
+.arjit_song_after_click_l2_b {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-size: 20px;
+    gap: 10px;
+    width: 78%;
+    height: 15vh;
+
+}
+
+.arjit_song_after_click_l2_a_1stIcon {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px gray;
+    border-radius: 100%;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#arjit_song_after_click_l2_a_2ndIcon {
+    cursor: pointer;
+    font-size: 25px;
+    color: rgb(187, 187, 187);
+}
+
+#arjit_song_after_click_l2_a_3rdIcon {
+    cursor: pointer;
+    font-size: 28px;
+    color: rgb(187, 187, 187);
+}
+
+#arjit_song_after_click_l2_b_icon {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+#arjit_song_after_click_l2_a_2ndIcon:hover {
+    color: white;
+}
+
+#arjit_song_after_click_l2_a_3rdIcon:hover {
+    color: white;
+}
+
+
+.arjit_song_after_click_l3_a {
+    margin-left: 5%;
+    width: 30%;
+}
+
+.arjit_song_after_click_l3_b {
+    display: flex;
+    width: 25%;
+}
+
+.arjit_song_after_click_l3_c {
+    display: flex;
+    width: 20%;
+}
+
+.arjit_song_after_click_l3_d {
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+    margin-left: 20px;
+}
+
+
+.arjit_song_after_click_l3 {
+    display: flex;
+    color: rgb(209, 209, 209);
+}
+
+.hoverItem {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    font-size: 20px;
+}
+
+.hoverItem :hover {
+    display: block;
+}
+
+
+.arjit_song_after_click_l4 {
+    display: flex;
+    margin: 20px;
+    margin-bottom: 0PX;
+    height: 15%;
+    border-radius: 10px;
+
+}
+
+.arjit_song_after_click_l4:hover {
+    background-color: rgba(61, 60, 60, 0.421);
+}
+
+.arjit_song_after_click_l4:hover .Liked_song_after_click_l4_a_hide {
+    display: block;
+}
+
+.arjit_song_after_click_l4:hover .Liked_song_after_click_l4_a_visiable {
+    display: none;
+}
+
+.arjit_song_after_click_l4_a {
+    display: flex;
+    align-items: center;
+    width: 33%;
+    margin-right: 3%;
+    height: 100%;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.arjit_song_after_click_l4_a_hide {
+    cursor: pointer;
+    margin-left: 15px;
+    font-size: 16px;
+    display: none;
+}
+
+.arjit_song_after_click_l4_a_visiable {
+    margin-left: 20px;
+    display: block;
+}
+
+.arjit_song_after_click_l4_a img {
+    width: 45px;
+    height: 80%;
+    margin-left: 16px;
+    border-radius: 5px;
+}
+
+.arjit_song_after_click_l4_a_p2_a{
+    cursor: pointer;
+    font-size: 17px;
+    margin-left: 10px;
+    font-weight: 700;
+    margin-bottom: 2px;
+    color: rgba(255, 255, 255, 0.807);
+}
+
+.arjit_song_after_click_l4_a_p2_a:hover{
+    text-decoration: underline;
+}
+
+.arjit_song_after_click_l4_a_p2_b{
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 10px;
+    color: rgba(255, 255, 255, 0.807);
+}
+
+.arjit_song_after_click_l4_a_p2_b:hover{
+    text-decoration: underline;
+}
+
+
+.arjit_song_after_click_l4_b{
+    cursor: pointer;
+    display: flex;
+    color: rgb(171, 169, 169);
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 26%;
+    height: 100%;
+   
+}
+
+.arjit_song_after_click_l4_b:hover{
+    text-decoration: underline;
+}
+
+.d {
+    display: flex;
+    color: rgb(171, 169, 169);
+    align-items: center;
+    justify-content: center;
+    width: 24%;
+    height: 100%;
+}
+
+
+.e {
+    width: 15%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    color: rgb(171, 169, 169);
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 100%;
+}
