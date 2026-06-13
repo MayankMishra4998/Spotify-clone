@@ -1,5 +1,6 @@
 # 🎵 Spotify Clone (Frontend)
 
+
 A Spotify-inspired music web app UI built using **HTML, CSS, and JavaScript**.  
 This project replicates the look and feel of Spotify’s web player with a clean layout, playlists, and a responsive design.
 
