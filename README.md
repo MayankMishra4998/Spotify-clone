@@ -15,7 +15,6 @@ This project replicates the look and feel of Spotify’s web player with a clean
 - 🎵 Playlists and music cards UI  
 - 📱 Responsive layout for different screen sizes  
 - 💡 Clean and modern design  
-
 ---
 
 ## 🛠️ Tech Stack
