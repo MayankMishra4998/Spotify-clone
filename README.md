@@ -4,7 +4,7 @@
 A Spotify-inspired music web app UI built using **HTML, CSS, and JavaScript**.  
 This project replicates the look and feel of Spotify’s web player with a clean layout, playlists, and a responsive design.
 
-🔗 **Live Demo:** https://mayank-spotiffy-clone.netlify.app/
+🔗 **Live Demo:** https://spotify-mayank.netlify.app/
 
 ---
 
